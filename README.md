@@ -28,16 +28,7 @@ Sou programador e gosto de transformar ideias em soluções práticas, explorand
 - Experimentos e testes com novas ideias
 - Ferramentas e soluções para backend
 - Estudos e implementações voltadas para desempenho, organização e escalabilidade
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
-## 📫 Contato
-
-- GitHub: [@SEU_USUARIO](https://github.com/SEU_USUARIO)
-
+  
 ---
 
 ⭐ Obrigado por visitar meu perfil!
